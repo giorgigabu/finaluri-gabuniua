@@ -1,2 +1,2 @@
-# pinaluri-gamocda-2004
+#finaluri
 gamocda
